@@ -1,0 +1,3 @@
+interface MowerState {
+    void move();
+}
